@@ -1,4 +1,4 @@
-# freelancer
+# Freelancer
 
 A new Flutter project.
 
