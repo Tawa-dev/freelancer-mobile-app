@@ -1,0 +1,6 @@
+String loginUrlImage = "https://www.google.com/search?q=company+4k+images&tbm=isch&ved=2ahUKEwjh2vmk34j_AhXhsEwKHc0-AScQ2-cCegQIABAA&oq=company+4k+&gs_lcp=CgNpbWcQARgAMgQIIxAnMgYIABAFEB4yBggAEAUQHjIGCAAQBRAeMgYIABAFEB4yBggAEAgQHjIGCAAQBRAeOgcIABCKBRBDOgcIIxDqAhAnOggIABCABBCxAzoFCAAQsQM6BQgAEIAEUABY1ipgzERoAXAAeAWAAY0IiAHiO5IBDTItMi41LjcuMi4wLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABCsABAQ&sclient=img&ei=jkdrZOHbH-HhsgLN_YS4Ag&bih=625&biw=1366#imgrc=9633IzFKICYQ4M";
+String signUpUrlImage = "https://www.google.com/search?q=company+4k+images&tbm=isch&ved=2ahUKEwjh2vmk34j_AhXhsEwKHc0-AScQ2-cCegQIABAA&oq=company+4k+&gs_lcp=CgNpbWcQARgAMgQIIxAnMgYIABAFEB4yBggAEAUQHjIGCAAQBRAeMgYIABAFEB4yBggAEAgQHjIGCAAQBRAeOgcIABCKBRBDOgcIIxDqAhAnOggIABCABBCxAzoFCAAQsQM6BQgAEIAEUABY1ipgzERoAXAAeAWAAY0IiAHiO5IBDTItMi41LjcuMi4wLjGYAQCgAQGqAQtnd3Mtd2l6LWltZ7ABCsABAQ&sclient=img&ei=jkdrZOHbH-HhsgLN_YS4Ag&bih=625&biw=1366#imgrc=9633IzFKICYQ4M";
+String forgetUrlImage = '';
+String? name = '';
+String? userImage = '';
+String? location = '';
